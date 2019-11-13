@@ -1,0 +1,2 @@
+class Cella:
+    pass
